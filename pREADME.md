@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GV87520
+- 👀 I’m interested in php, javascript, mysql
+- 🌱 I’m currently learning jquery
